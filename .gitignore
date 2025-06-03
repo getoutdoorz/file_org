@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Test directories created during script execution
+testFolder*/
+_*/
+
+# OS files
+.DS_Store
+Thumbs.db
